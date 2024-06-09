@@ -16,9 +16,9 @@ export KBUILD_BUILD_USER=Rapli
 export KBUILD_BUILD_HOST=PotatoServer
 
 # AK3_DIR
-ZIPNAME="AL-1S-$CODENAME-F1-NEW-$(date '+%Y%m%d-%H%M').zip"
-ZIPNAME_OLD="AL-1S-$CODENAME-F1-OLD-$(date '+%Y%m%d-%H%M').zip"
-AK3_DIR="/workspace/Arisuu-Kernel-NO-KSU/AnyKernel3"
+ZIPNAME="AL-1S-$CODENAME-F1-NEW-KSU-$(date '+%Y%m%d-%H%M').zip"
+ZIPNAME_OLD="AL-1S-$CODENAME-F1-OLD-KSU-$(date '+%Y%m%d-%H%M').zip"
+AK3_DIR="/workspace/Arisuu-Kernel-KSU/AnyKernel3"
 
 # NEW DRIVER
 NSE_NEW="out/outputs/${PHONE}/NEW-DRIVER-NSE/Image.gz-dtb"
